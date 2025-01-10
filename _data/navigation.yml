@@ -4,15 +4,15 @@ main:
     url: https://perstarke-webdev.de/oneflow-jekyll-theme
     blank: true
     description: "The documentation for this theme, on https://perstarke-webdev.de"
-  - title: "Section 1"
-    url: /#section-1
+  - title: "Project 1"
+    url: /#project-1
     blank: false
-  - title: "Section 2"
-    url: /#section-2
+  - title: "Project 2"
+    url: /#roject-2
     blank: false
-  - title: "Section 3"
-    url: /#section-3
+  - title: "Project 3"
+    url: /#project-3
     blank: false
-  - title: "Section 4"
-    url: /#section-4
+  - title: "Project 4"
+    url: /#project-4
     blank: false
